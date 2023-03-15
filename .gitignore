@@ -1,0 +1,6 @@
+.env
+*csv
+dsqlvenv
+*.pyc
+*.log
+__pycache__/
